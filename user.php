@@ -8,7 +8,7 @@
  * 
  */
 class User{
-    private $dbHost     = "localhost";
+    private $dbHost     = "madeva-server.mysql.database.azure.com";
     private $dbUsername = "xyyplxcpfv";
     private $dbPassword = "1464M4803V8AWU6C$";
     private $dbName     = "madeva_database";
