@@ -9,9 +9,9 @@
  */
 class User{
     private $dbHost     = "localhost";
-    private $dbUsername = "madevain_trans";
-    private $dbPassword = "1234567890";
-    private $dbName     = "madevain_transport";
+    private $dbUsername = "xyyplxcpfv";
+    private $dbPassword = "1464M4803V8AWU6C$";
+    private $dbName     = "madeva_database";
     private $userTbl    = "users";
     
     public function __construct(){
